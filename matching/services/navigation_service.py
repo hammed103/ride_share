@@ -3,7 +3,7 @@ from typing import Dict, List
 
 class NavigationService:
     def __init__(self, api_key: str):
-        self.client = googlemaps.Client(key="AIzaSyCf32K4RI5TiysGJ1RbAIl7_Y5bAgPUNuU")
+        self.client = googlemaps.Client(key="AIzaSyCf32K4RI5")
 
     def get_optimal_route(
         self, 

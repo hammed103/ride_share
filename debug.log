@@ -2142,3 +2142,5 @@ ERROR 2025-03-17 16:13:25,903 basehttp "POST /api/rides/navigation/ HTTP/1.1" 50
 INFO 2025-03-17 16:13:36,930 basehttp "POST /api/rides/navigation/ HTTP/1.1" 200 18249
 INFO 2025-03-17 16:20:12,004 basehttp "OPTIONS /api/rides/match/ HTTP/1.1" 200 0
 INFO 2025-03-17 16:20:12,593 basehttp "POST /api/rides/match/ HTTP/1.1" 200 984
+INFO 2025-03-17 16:25:29,539 autoreload /Users/hammedbalogun/Desktop/ride_mgn_system-main/matching/services/navigation_service.py changed, reloading.
+INFO 2025-03-17 16:25:29,967 autoreload Watching for file changes with StatReloader
